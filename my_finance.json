@@ -1,0 +1,50 @@
+{
+    "balance": 70410.0,
+    "history": [
+        {
+            "type": "income",
+            "amount": 3000.0,
+            "desc": "Base salary"
+        },
+        {
+            "type": "income",
+            "amount": 3000.0,
+            "desc": "Bonus of salary"
+        },
+        {
+            "type": "expense",
+            "amount": 1000.0,
+            "desc": "Rent"
+        },
+        {
+            "type": "expense",
+            "amount": 690.0,
+            "desc": "Buying new iphone"
+        },
+        {
+            "type": "income",
+            "amount": 120000.0,
+            "desc": "Sold Old House"
+        },
+        {
+            "type": "expense",
+            "amount": 50000.0,
+            "desc": "bought new car"
+        },
+        {
+            "type": "income",
+            "amount": 4300.0,
+            "desc": "won lottery"
+        },
+        {
+            "type": "expense",
+            "amount": 200.0,
+            "desc": "charity"
+        },
+        {
+            "type": "expense",
+            "amount": 8000.0,
+            "desc": "buying new macbook"
+        }
+    ]
+}
